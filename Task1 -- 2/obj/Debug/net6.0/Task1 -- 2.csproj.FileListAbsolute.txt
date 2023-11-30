@@ -1,0 +1,14 @@
+C:\Users\HP\OneDrive - Hashemite University\Desktop\Orange Coding School\C#\C-Task1---2\Task1 -- 2\bin\Debug\net6.0\Task1 -- 2.exe
+C:\Users\HP\OneDrive - Hashemite University\Desktop\Orange Coding School\C#\C-Task1---2\Task1 -- 2\bin\Debug\net6.0\Task1 -- 2.deps.json
+C:\Users\HP\OneDrive - Hashemite University\Desktop\Orange Coding School\C#\C-Task1---2\Task1 -- 2\bin\Debug\net6.0\Task1 -- 2.runtimeconfig.json
+C:\Users\HP\OneDrive - Hashemite University\Desktop\Orange Coding School\C#\C-Task1---2\Task1 -- 2\bin\Debug\net6.0\Task1 -- 2.dll
+C:\Users\HP\OneDrive - Hashemite University\Desktop\Orange Coding School\C#\C-Task1---2\Task1 -- 2\bin\Debug\net6.0\Task1 -- 2.pdb
+C:\Users\HP\OneDrive - Hashemite University\Desktop\Orange Coding School\C#\C-Task1---2\Task1 -- 2\obj\Debug\net6.0\Task1 -- 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive - Hashemite University\Desktop\Orange Coding School\C#\C-Task1---2\Task1 -- 2\obj\Debug\net6.0\Task1 -- 2.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive - Hashemite University\Desktop\Orange Coding School\C#\C-Task1---2\Task1 -- 2\obj\Debug\net6.0\Task1 -- 2.AssemblyInfo.cs
+C:\Users\HP\OneDrive - Hashemite University\Desktop\Orange Coding School\C#\C-Task1---2\Task1 -- 2\obj\Debug\net6.0\Task1 -- 2.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - Hashemite University\Desktop\Orange Coding School\C#\C-Task1---2\Task1 -- 2\obj\Debug\net6.0\Task1 -- 2.dll
+C:\Users\HP\OneDrive - Hashemite University\Desktop\Orange Coding School\C#\C-Task1---2\Task1 -- 2\obj\Debug\net6.0\refint\Task1 -- 2.dll
+C:\Users\HP\OneDrive - Hashemite University\Desktop\Orange Coding School\C#\C-Task1---2\Task1 -- 2\obj\Debug\net6.0\Task1 -- 2.pdb
+C:\Users\HP\OneDrive - Hashemite University\Desktop\Orange Coding School\C#\C-Task1---2\Task1 -- 2\obj\Debug\net6.0\Task1 -- 2.genruntimeconfig.cache
+C:\Users\HP\OneDrive - Hashemite University\Desktop\Orange Coding School\C#\C-Task1---2\Task1 -- 2\obj\Debug\net6.0\ref\Task1 -- 2.dll
